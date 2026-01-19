@@ -1,4 +1,4 @@
-# Seasonal Rainfall Data Cleaning 🌧️
+# Seasonal Rainfall Data Cleaning
 
 Este repositório apresenta um **exercício completo de limpeza e preparação de dados** utilizando Python e Pandas, aplicado a um conjunto de dados de **chuvas sazonais médias** nas regiões do **Lake Victoria** e **Simiyu (Tanzânia)**.
 
@@ -19,6 +19,7 @@ O foco do projeto é demonstrar boas práticas de **data cleaning**, **organiza�
 │   └── Messy_Data_for_Data_Cleaning_Exercise.ipynb
 │
 ├── README.md
+```
 
 ### 📁 `data/raw/`
 
