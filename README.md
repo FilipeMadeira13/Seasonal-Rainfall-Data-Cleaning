@@ -125,18 +125,4 @@ Uso educacional e demonstrativo.
 
 ```
 
----
 
-## ✅ Próximo passo recomendado (opcional)
-Para deixar **ainda mais forte no GitHub**:
-- adicionar **1 ou 2 gráficos** no notebook
-- incluir **insights escritos** (ex: meses mais chuvosos)
-- linkar esse projeto no seu README principal ou LinkedIn
-
-Se quiser, posso:
-- revisar o notebook com **comentários de portfólio**
-- sugerir **gráficos que impressionam recrutador**
-- adaptar esse README para **vaga de dados específica**
-
-Só dizer 🚀
-```
